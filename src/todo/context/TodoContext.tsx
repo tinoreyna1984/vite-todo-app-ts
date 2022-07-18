@@ -27,12 +27,12 @@ const INITIAL_STATE: TodoState = {
     todos: [
         {
             id: '1',
-            desc: 'Recolectar las piedras del infinito',
+            desc: 'Seguir con Node.js',
             completed: false
         },
         {
             id: '2',
-            desc: 'Piedra del alma',
+            desc: 'Seguir con React Pro',
             completed: false
         },
     ],
